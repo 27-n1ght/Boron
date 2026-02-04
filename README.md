@@ -38,7 +38,3 @@ We believe that knowledge and tools should be accessible to everyone, regardless
 
 ---
 
-
-```lua
--- Example Loadstring (If applicable)
-loadstring(game:HttpGet("[https://github.com/YourUsername/BoronHub/raw/main/script.lua](https://github.com/YourUsername/BoronHub/raw/main/script.lua)"))()

